@@ -1,0 +1,17 @@
+{
+  "name": "ds-development/recursive-tree",
+  "description": "Easy work with tree data structure",
+  "authors": [
+    {
+      "name": "Dmitry Sytnik"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "websytnik\\tree\\": "src"
+    }
+  }
+}
