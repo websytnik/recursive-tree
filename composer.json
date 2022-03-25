@@ -2,6 +2,7 @@
   "name": "websytnik/recursive-tree",
   "description": "Easy work with tree data structure",
   "version": "1.0.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "Dmitry Sytnik"
