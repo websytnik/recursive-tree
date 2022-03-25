@@ -1,6 +1,7 @@
 {
   "name": "websytnik/recursive-tree",
   "description": "Easy work with tree data structure",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Dmitry Sytnik"
